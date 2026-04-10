@@ -1,6 +1,12 @@
-# CollabCode
+<p align="center">
+  <img src="./image.png" alt="CollabCode" width="100%" />
+</p>
 
-A collaborative cloud code editor with AI-powered code generation, real-time multi-user editing, and integrated terminals — built to feel like a lightweight cloud IDE.
+<h1 align="center">CollabCode</h1>
+
+<p align="center">
+  A collaborative cloud code editor with AI-powered code generation, real-time multi-user editing, and integrated terminals — built to feel like a lightweight cloud IDE.
+</p>
 
 ## Features
 
